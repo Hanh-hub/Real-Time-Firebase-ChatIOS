@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B17C13A9-345F-44FA-BABA-31D4DD235AA8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04064835-6CE7-4347-A7F4-90572204EE1D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FireBaseDemo/Views/Text Message Cell/TextMessageTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MessageTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "04064835-6CE7-4347-A7F4-90572204EE1D - 90bddb65f8411b9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseDemo.MessageTableViewCell.messageBackgroundViewLeadingConstraint.getter : Swift.Optional&lt;__C.NSLayoutConstraint&gt;"
+                  moduleName = "FireBaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanhvo/Documents/Swift%20Practice%20New/InterviewPrep%20Demos/FireBaseDemo/FireBaseDemo/Views/Text%20Message%20Cell/TextMessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "04064835-6CE7-4347-A7F4-90572204EE1D - d668755519483ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseDemo.MessageTableViewCell.messageBackgroundViewLeadingConstraint.setter : Swift.Optional&lt;__C.NSLayoutConstraint&gt;"
+                  moduleName = "FireBaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanhvo/Documents/Swift%20Practice%20New/InterviewPrep%20Demos/FireBaseDemo/FireBaseDemo/Views/Text%20Message%20Cell/TextMessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "04064835-6CE7-4347-A7F4-90572204EE1D - fa77744951b0d9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseDemo.MessageTableViewCell.messageBackgroundViewLeadingConstraint.modify : Swift.Optional&lt;__C.NSLayoutConstraint&gt;"
+                  moduleName = "FireBaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanhvo/Documents/Swift%20Practice%20New/InterviewPrep%20Demos/FireBaseDemo/FireBaseDemo/Views/Text%20Message%20Cell/TextMessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "04064835-6CE7-4347-A7F4-90572204EE1D - 5f4f81583fc1550f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseDemo.MessageTableViewCell.messageBackgroundViewLeadingConstraint.modify : Swift.Optional&lt;__C.NSLayoutConstraint&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FireBaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanhvo/Documents/Swift%20Practice%20New/InterviewPrep%20Demos/FireBaseDemo/FireBaseDemo/Views/Text%20Message%20Cell/TextMessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "04064835-6CE7-4347-A7F4-90572204EE1D - 6ca02bf3bc9bc4d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseDemo.MessageTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FireBaseDemo.MessageTableViewCell"
+                  moduleName = "FireBaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanhvo/Documents/Swift%20Practice%20New/InterviewPrep%20Demos/FireBaseDemo/FireBaseDemo/Views/Text%20Message%20Cell/TextMessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "04064835-6CE7-4347-A7F4-90572204EE1D - 5a91b90445d049fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseDemo.MessageTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FireBaseDemo.MessageTableViewCell&gt;"
+                  moduleName = "FireBaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanhvo/Documents/Swift%20Practice%20New/InterviewPrep%20Demos/FireBaseDemo/FireBaseDemo/Views/Text%20Message%20Cell/TextMessageTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
